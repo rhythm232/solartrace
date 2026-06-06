@@ -14,15 +14,13 @@ For the best experience, please open the demo on desktop. Mobile support is stil
 
 ## Preview
 
-![SolarTrace Demo](solartrace-assets/gifs/gif.gif)
+![SolarTrace Preview 1](solartrace-assets/gifs/gif.gif)
+
+![SolarTrace Preview 2](solartrace-assets/gifs/gif2.gif)
 
 ## Screenshot
 
 ![SolarTrace Screenshot](solartrace-assets/images/UoG.jpeg)
-
-## Demo Video
-
-[Watch the demo video](solartrace-assets/gifs/gif2.mp4)
 
 ## Why I Built This
 
