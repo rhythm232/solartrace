@@ -12,6 +12,22 @@ SolarTrace is my attempt to make this part of renting easier to understand visua
 
 For the best experience, please open the demo on desktop. Mobile support is still being improved.
 
+## Preview
+
+![SolarTrace Demo](solartrace-assets/gifs/gif.gif)
+
+## Screenshots
+
+![SolarTrace Screenshot 1](solartrace-assets/images/Edj.jpeg)
+
+![SolarTrace Screenshot 2](solartrace-assets/images/UoG.jpeg)
+
+## Demo Videos
+
+[Watch demo video 1](solartrace-assets/media/demo1.mp4)
+
+[Watch demo video 2](solartrace-assets/media/demo2.mp4)
+
 ## Why I Built This
 
 When renting remotely, especially as an international student or someone moving to a new city, it can be hard to judge whether a room will actually get sunlight.
@@ -42,11 +58,11 @@ The current prototype focuses on:
 ## Current Features
 
 - 3D city visualization
-- Sun position preview
-- Time-of-day sunlight simulation
-- Basic surrounding obstruction preview
-- Address search prototype
-- Desktop-first demo experience
+- sun position preview
+- time-of-day sunlight simulation
+- basic surrounding obstruction preview
+- address search prototype
+- desktop-first demo experience
 
 ## Planned Improvements
 
